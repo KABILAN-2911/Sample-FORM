@@ -1,16 +1,1 @@
-fieldset{
-    display: inline-block;
-    border: 2px solid black;
-    padding: 20px;
-    padding-top: 10px;
-}
-#a1{
-    padding-left: 500px;
-    padding-top: 150px;
-}
-body{
-    display: flex;
-}
-form{
-    display: flex;
-}
+
